@@ -4,7 +4,7 @@
       \ \ / /   \ V /  |  \| |  | |   \  /  | | | |
        \ V /     | |   | |\  |  | |   /  \  | |_| |
         \_/      |_|   |_| \_| |___| /_/\_\  \___/
-    Vynixius Jailbreak; scripted by Vynixu
+    Vynixu's Position Grabber; scripted by Vynixu
     discord.me/vynixuexploits
 
     After saving the table there should be a .lua file containing the locations in your SynapseFolder/workspace.
