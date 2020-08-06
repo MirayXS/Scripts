@@ -1,40 +1,45 @@
 --[[
-     __     __ __   __  _   _   ___  __  __  _   _ 
-     \ \   / / \ \ / / | \ | | |_ _| \ \/ / | | | |
-      \ \ / /   \ V /  |  \| |  | |   \  /  | | | |
-       \ V /     | |   | |\  |  | |   /  \  | |_| |
-        \_/      |_|   |_| \_| |___| /_/\_\  \___/
+     __      __          _      _                  _       _ _ _                    _    
+     \ \    / /         (_)    (_)                | |     (_) | |                  | |   
+      \ \  / /   _ _ __  ___  ___ _   _ ___       | | __ _ _| | |__  _ __ ___  __ _| | __
+       \ \/ / | | | '_ \| \ \/ / | | | / __|  _   | |/ _` | | | '_ \| '__/ _ \/ _` | |/ /
+        \  /| |_| | | | | |>  <| | |_| \__ \ | |__| | (_| | | | |_) | | |  __/ (_| |   < 
+         \/  \__, |_| |_|_/_/\_\_|\__,_|___/  \____/ \__,_|_|_|_.__/|_|  \___|\__,_|_|\_\
+              __/ |
+             |___/
     Vynixius Jailbreak; scripted by Vynixu
     discord.me/vynixuexploits
+    
+    Changelog:
+    - New Features
+        Free Car Radio
+        Flickering Streetlights
+        Strobe Headlights
+        Equip Jetpack
+        Give Cash
+        Spawn Platform / Ramp
+        Added A 'Vehicles' Category To Teleports
+        Loop Open All Doors [Serversided]
+        Loop Eject All
+        Anti Pop Tires
+        Annoy Server [Serversided]
+        Car Mods Apply To Your Vehicle Upon Entering It
+        Spawn Fireworks [ClientSided]
+        Give Police Outfit
+        Remove Outfit
+        Added A Settings Tab
+          * Friend Detection
+          * Platform Stays Permanently
+          * Clear Textboxes On Focus
 
-     Changelog:
-     - New Features
-         Bounty display for ESP
-         Click Nuke [Clientsided]
-         Nuke All Locations [Clientsided]
-         Click Lightning [Clientsided]
-         God Mode
-         Erupt Volcano
-         Eject All
-         Rainbow Car [Serversided]
-         Anti Flip Over
-         Rainbow Nitro
+    - Fixed Features
+        Erupt Volcano
+        Fixed Mobile Garage Once Again
 
-     - Fixed Features
-         Infinite Nitro
-         Teleport Bypass
-
-     - Removed Features
-         Auto rob [For now, is being worked on]
-         Spam hats
-         Insanely fast walkspeed / fly
-
-     - Other
-         Changed the Car Jump key to 'X'
-         Made Mobile Garage work more smoothly [not a big difference]
-       
-     Thanks Syko for the functions! <3
+    - Other
+        New UI Library Look
 ]]
+
 -- Intro --
 loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Scripts/master/VyJa%20Intro", true))()
 -----------
